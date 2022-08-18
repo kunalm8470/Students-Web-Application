@@ -4,7 +4,7 @@ Student CRUD application using .NET 6 MVC as the MVC framework and EF Core 6 as 
 
 ## **To run**
 
-1. Install the dotnet ef core CLI <br/>
+1. Install the dotnet ef core CLI globally. More info [here](https://docs.microsoft.com/en-us/ef/core/cli/dotnet#installing-the-tools)<br/>
 `dotnet tool install --global dotnet-ef`
 
 2. Open a terminal in the Infrastructure directory (i.e the directory where the DbContext file resides).
